@@ -22,3 +22,4 @@ Instale tudo com:
 
 bash
 pip install -r requirements.txt
+
