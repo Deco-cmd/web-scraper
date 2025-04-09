@@ -1,0 +1,4 @@
+
+2. Adicione o arquivo `credenciais.json` na pasta raiz
+
+3. Execute:
