@@ -22,3 +22,11 @@ Instale tudo com:
 
 ```bash
 pip install -r requirements.txt
+
+## 📄 Arquivo CSV Gerado
+
+O scraper gera automaticamente um arquivo `.csv` com os produtos e preços extraídos do site.
+
+Abaixo um exemplo:
+
+![Arquivo CSV com dados]("C:\Users\Andre\Desktop\varredor de site\images varredor de site\img vs code.png")
