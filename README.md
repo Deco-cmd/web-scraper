@@ -8,6 +8,7 @@ Clique no botão abaixo para abrir este projeto no Replit:
 
 [![Execute no Replit](https://replit.com/badge/github/Deco-cmd/web-scraper)](https://replit.com/new/github/Deco-cmd/web-scraper)
 
+![Exemplo do CSV](images/print_csv.png)
 
 
 ## 📦 Requisitos
